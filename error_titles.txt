@@ -1,0 +1,14 @@
+Titles where rev_id was not found
+
+['Barbara Eibinger-Miedl',
+ 'Mehrali Gasimov',
+ 'Kyaw Myint',
+ 'André Ngongang Ouandji',
+ 'Tomás Pimentel',
+ 'Richard Sumah', 
+ "Segun ''Aeroland'' Adewale", 
+ 'Bashir Bililiqo']
+
+Titles where score was not found
+
+ ['Carlos Eduardo Moreira Ferreira']
